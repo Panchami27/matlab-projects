@@ -1,5 +1,5 @@
-# matlab-projects
-These projects demonstrate numerical methods, process calculations, engineering design, and data analysis developed using MATLAB.
+# HENTI - Heat Exchanger Network Caculations
+Codes are written to design heat exchanger network using temperature interval method, HCC, and GCC.
 
 **HENTI1.m**
 
